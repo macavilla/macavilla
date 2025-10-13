@@ -13,7 +13,3 @@ Hydra es una herramienta que me inspira por su naturaleza libre e intuitiva. Des
 ### ⚙️ Stack
 `HTML` · `CSS / Sass` · `JavaScript` · `React` · `Astro` · `Hydra` · `TypeScript`
 
-### 🌀 Me interesa
-interfaces vivas · Hydra-synth · software libre · web accesible · usar el navegador como un lienzo
-
-
